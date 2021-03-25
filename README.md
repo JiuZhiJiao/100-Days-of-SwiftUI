@@ -57,7 +57,7 @@
 
 ### Day 35: Consolidation III
 
-- [ ]Day 35 – Milestone: Projects 4-6
+- [ ] Day 35 – Milestone: Projects 4-6
 
 
 ### Days 36-46: Scaling up to bigger apps
